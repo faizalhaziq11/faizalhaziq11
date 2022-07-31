@@ -5,7 +5,7 @@
 - 🌐 Below are my list of project I have been work on:
 - ➡️ https://forkify-m.netlify.app/
 - ➡️ https://faizalhaziq11.github.io/clazzy-pros-v2/
-- ➡️ https://react-memes-app/
+- ➡️ https://react-memes-app.netlify.app/
 
 <!---
 faizalhaziq11/faizalhaziq11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
