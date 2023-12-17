@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @faizalhaziq11
 - 👀 I’m self learner in Web Development
-- 🌱 I’m currently learning NodeJS
 - 📫 Can reach me @ faizalhaziq1189@gmail.com
 - 🌐 Below are my list of project I have been work on:
 - ➡️ https://faizalhaziq11.github.io/etch-a-sketch/
