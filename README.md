@@ -4,7 +4,6 @@
 - 🌐 Below are my list of project I have been work on:
 - ➡️ https://faizalhaziq11.github.io/etch-a-sketch/
 - ➡️ https://faizalhaziq11.github.io/calculator/
-- ➡️ https://faizalhaziq11.github.io/clazzy-pros-v2/
 - ➡️ https://react-memes-app.netlify.app/
 - ➡️ https://react-weatherapi-app.netlify.app/
 
