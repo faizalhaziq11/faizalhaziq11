@@ -5,7 +5,7 @@
 - ➡️ https://faizalhaziq11.github.io/etch-a-sketch/
 - ➡️ https://faizalhaziq11.github.io/calculator/
 - ➡️ https://react-memes-app.netlify.app/
-- ➡️ https://react-weatherapi-app.netlify.app/
+- ➡️ https://react-opensky.netlify.app/
 
 <!---
 faizalhaziq11/faizalhaziq11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
